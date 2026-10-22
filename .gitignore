@@ -1,0 +1,17 @@
+# Large image datasets - keep local
+realwaste/
+RealWaste/
+data/
+*.zip
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
